@@ -1,6 +1,6 @@
 # Webdev
 
-This repo will be used as my "web server" as I learn  web developemnt. For the time being it will have the following content:
+This repo will be used as my "web server" while I learn  web developemnt. For the time being it will have the following content:
 
   - HTML
   - CSS
